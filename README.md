@@ -168,6 +168,10 @@ plt.show()
 
 # Output
 
+<img width="1005" height="588" alt="image" src="https://github.com/user-attachments/assets/032a9b17-6eef-4cbd-a0ee-e12e4a9216f1" />
+<img width="961" height="387" alt="image" src="https://github.com/user-attachments/assets/e962e8cb-9750-439b-9c8b-88e74e8e7f7e" />
+
+
 ## Grayscale Histogram Equalization
 
 - Original grayscale image is displayed
